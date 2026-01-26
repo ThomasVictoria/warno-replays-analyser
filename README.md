@@ -26,3 +26,5 @@ Once Wails is installed, you can build the application by running:
 ```bash
 wails build -nsis
 ```
+
+bump
